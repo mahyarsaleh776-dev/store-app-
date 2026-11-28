@@ -8,7 +8,7 @@ Team project, forked from reham0138/store-app- to showcase my part of the work. 
 
 **Design**
 
-- Contributed to the visual design: color palette, logo, and UI styling (see `docs/design/`).
+- Contributed to the visual design: color palette, logo, and UI styling (see `crown_anchor_design_reference`).
 
 **Testing / QA**
 
