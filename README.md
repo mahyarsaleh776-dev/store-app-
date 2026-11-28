@@ -25,5 +25,5 @@ Team project, forked from reham0138/store-app- to showcase my part of the work. 
 
 **Tech stack:** React, TypeScript, Vite, Tailwind CSS, React Router, Axios. The backend (NestJS + MongoDB) was built by teammates.
 
-**Live demo:** TODO
-**Screenshots:** TODO
+**Live demo:** https://crown-anchor-store.vercel.app/
+
